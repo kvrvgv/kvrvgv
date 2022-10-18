@@ -2,9 +2,6 @@
 ![GIF](assets/N-LITE.gif)
 
 # Kvrvgv
-My name is Artem, I live in Pskov. I write in Python and am slowly learning other languages too.
-
-+ Musovo Co-Founder.
 
 ### Tools:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
