@@ -3,13 +3,7 @@
 
 # Kvrvgv
 
-### Tools:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
-![aiogram](https://img.shields.io/badge/-aiogram-090909?style=for-the-badge&logo=telegram)
-![django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
-![pgsql](https://img.shields.io/badge/-pgsql-090909?style=for-the-badge&logo=postgresql)
-![selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium)
-![postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 
 ### Socials:
 [![tg](https://img.shields.io/badge/-TG-090909?style=flat-square&logo=telegram)](https://t.me/kvrvgv)
